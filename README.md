@@ -1,4 +1,4 @@
-# VELTRAXX Hackathon — Sparse Weight Pruning & Run-Length Encoding Engine for Edge NPU
+ # Sparse Weight Pruning & Run-Length Encoding Engine for Edge NPU
 
 ## 🎯 Project Goal
 Build a full hardware+software co-design pipeline that compresses a neural network by **≥60% sparsity**, achieves **≥2× memory reduction**, and delivers **≥1.5× inference speedup** on a simulated Edge NPU — all with **zero catastrophic accuracy loss**.
